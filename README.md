@@ -40,7 +40,10 @@ Master-Master
 Выполните конфигурацию master-slave репликации, примером можно пользоваться из лекции.
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
-![схема](https://github.com/Vladimir-Runov/hw_1207/blob/main/img/2026-05-23_07-28-56.png)
+![запрос репликации](https://github.com/Vladimir-Runov/hw_1207/blob/main/img/2026-05-23_11-20-41.png)
+![docker containers](https://github.com/Vladimir-Runov/hw_1207/blob/main/img/2026-05-23_11-21-23.png)
+![состояние master](https://github.com/Vladimir-Runov/hw_1207/blob/main/img/2026-05-23_11-23-46.png)
+![состояние slave](https://github.com/Vladimir-Runov/hw_1207/blob/main/img/2026-05-23_11-24-30.png)
 
 ---
 
